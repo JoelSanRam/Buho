@@ -2,7 +2,7 @@
 $subject = 'Nuevo Mensaje de mi página web | Buho Solutions '; // Subject of your email
 $okMessage = '¡Mensaje enviado!, en breve nos pondremos en contacto contigo';
 $errorMessage = 'Ocurrió un error, Por favor intente nuevamente más tarde.';
-$to = 'urielperez9781@gmail.com';  //Recipient's E-mail
+$to = 'hola@buho-solutions.com';  //Recipient's E-mail
 $emailTo = $_REQUEST['email'];
 
 $name = $_REQUEST['name'];
